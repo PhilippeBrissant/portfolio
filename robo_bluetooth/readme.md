@@ -26,6 +26,6 @@ adesiva dupla face, assim como todo o circuito. Vide foto abaixo:
 
 ## Como funciona?
 Os comandos são enviados pelo aplicativo ao módulo bluetooth HC-06. Este, por sua vez, envia-os ao microcontrolador ESP8266, que interpreta os comandos e controla os 2 motores, através do CI L293D.
-Para o correto funcionamento, é necessário configurar o [app Arduino bluetooth controller](https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor&hl=pt_BR&gl=US). Seguem print para auxiliar:
+Para o correto funcionamento, é necessário configurar o [app Arduino bluetooth controller](https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor&hl=pt_BR&gl=US). Segue print para auxiliar:
 
 ![](config-comandos-app1.png)

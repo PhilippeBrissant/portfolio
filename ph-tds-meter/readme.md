@@ -1,6 +1,7 @@
 # Ph and TDS Meter for fertirrigation quality [2021]
+This project is about measuring ph and TDS of plant watering solutions.
 
-This project is about measuring ph and TDS of plant watering solutions. 
+![](photo.jpeg)
 
 ## Components:
 - Esp32

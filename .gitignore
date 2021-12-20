@@ -31,6 +31,9 @@
 *.out
 *.app
 
+#vscode
+.vscode/
+
 #estufa V2
 estufa/V2/Estufa/Estufa.iml
 estufa/V2/Estufa/.idea/

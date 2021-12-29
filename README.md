@@ -1,7 +1,6 @@
-# iot-robotics
-This repository serves as my portfolio. 
+# This repository serves as my portfolio. 
 
-In this portfolio there are the following projects (with their respective readme):
+In this portfolio are the following projects (with their respective readme):
 
 - Estufa (greenhouse)
     - [V1](estufa/V1/)

@@ -1,6 +1,6 @@
 # Autonomous Greenhouse V2 [2019]
 ## How it works?
-When turned on, the system will control the actuators (light, fan and pump), base on sensors values. All these informations be visualized in realtime on your android mobile. 
+When turned on, the system will control the actuators (light, fan and pump), based on sensors values. All these informations can be visualized in realtime on your android mobile. 
 
 ## Components
 - Raspberry pi 3B + picamera 
@@ -26,7 +26,7 @@ make install-arduino-tools
 make upload board=arduino:avr:uno port=/dev/ttyUSB0 sketch=estufa/V2/arduino/arduino.ino
 ```
 
-I recomend to edit your ``/etc/rc.local`` file with the following commands to start all the things at startup:
+I recomend editing your ``/etc/rc.local`` file with the following commands to start everything at startup:
 ```
 systemctl enable vncserver-x11-serviced.service
 systemctl start vncserver-x11-serviced.service

@@ -32,7 +32,6 @@ Implementar uma API de Pagamentos com as seguintes operações:
 - Usar Git para versionamento
 - Padrões de Projeto
 - Não há necessidade de persistir os dados em um banco de dados.
-- Crie em modo Privado o Repositório ToolsChallenge e compartilhe
 
 ## Como implementei
 - Utilizei o Spring Boot para o desenvolvimento da API.
@@ -74,9 +73,9 @@ Existe, basicamente, um único: ``/transacao.``
 
 ## Como rodar
 ```
-git clone https://github.com/PhilippeBrissant/ToolsChallenge.git
+git clone https://github.com/PhilippeBrissant/portfolio.git
 
-cd ToolsChallenge
+cd portfolio/processo-seletivo1
 
 ./mvnw spring-boot:run
 ```

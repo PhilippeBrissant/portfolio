@@ -40,3 +40,7 @@ estufa/V2/Estufa/.idea/
 estufa/V2/Estufa/.gradle
 estufa/V2/Estufa/app/build
 estufa/V2/Estufa/app/src/androidTest
+
+#processo seletivo
+processo-seletivo1/target
+processo-seletivo1/.vscode

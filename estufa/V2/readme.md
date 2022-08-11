@@ -40,4 +40,4 @@ At least, you should install the .apk in your android.
 
 ## References
 - [Pyrebase](https://github.com/thisbejim/Pyrebase)
-- [Adafruit BME280 Library Build Status](https://github.com/adafruit/Adafruit_BME280_Library)
+- [Adafruit DHT sensor library](https://github.com/adafruit/DHT-sensor-library)

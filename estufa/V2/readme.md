@@ -17,7 +17,9 @@ When turned on, the system will control the actuators (light, fan and pump), bas
 ![](estufa-firebase-app.png)
 
 ## How to set it up?
-You must have a SO installed in your Raspberry (more info [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system)). [Here](https://www.raspberrypi.com/documentation/computers/configuration.html#menu-options) you can find information to enable the camera and VNC server.
+Discalimer: this firebase project is no long available. So you need to create your own Firebase projet and change the credentials in the code.
+
+You must have a SO installed in your Raspberry (more info [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system)). [Here](https://www.raspberrypi.com/documentation/computers/configuration.html#menu-options) you can find information to enable the camera, SSH and VNC server.
 
 After that, through a VNC client, connect to you raspi. With git installed, clone this repo in your Desktop folder and install arduino tools and upload the code to your arduino using ``make``. For example:
 
@@ -35,3 +37,7 @@ sudo -H -u pi /usr/bin/python /home/pi/Desktop/V2/rasp.py
 ```
 
 At least, you should install the .apk in your android.
+
+## References
+- [Pyrebase](https://github.com/thisbejim/Pyrebase)
+- [Adafruit BME280 Library Build Status](https://github.com/adafruit/Adafruit_BME280_Library)

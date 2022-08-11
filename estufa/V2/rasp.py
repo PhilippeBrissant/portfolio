@@ -24,7 +24,7 @@ def inicializaFirebase():
     global db
 
     credenciais = {
-		'apiKey': "AIzaSyCn4dkLFiPdy112uMwq4JctA1jZjfQgDCI",
+		'apiKey': "AIzaSjhdOSINJDHoisjd112uMwq4JctA1jZjfQgDCI",
 		'authDomain': "greenhousev2-786f6.firebaseapp.com",
 		'databaseURL': "https://greenhousev2-786f6-default-rtdb.firebaseio.com",
 		'projectId': "greenhousev2-786f6",
